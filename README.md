@@ -38,4 +38,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/erolterbiyeli/
-[twitter]: [https://twitter.com/Terbiyelierol]
+[twitter]: https://twitter.com/Terbiyelierol
