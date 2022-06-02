@@ -15,7 +15,9 @@ I am currently looking for opportunities in Tech and like to connect with the ot
 [<img align="left" alt="Linkedin" width="26px" src="https://img.icons8.com/fluency/48/undefined/twitter.png" style="padding-right:10px;"/>][twitter]
 
 
-<br> ## Languages and Tools:
+<br> 
+
+## Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /> 
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /> 
