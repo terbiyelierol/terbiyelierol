@@ -16,6 +16,6 @@ If you want to reach out to me
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> 
 
 <img align="left" alt="PostgreSQL" width="26px"  src="https://img.icons8.com/color/48/undefined/postgreesql.png" style="padding-right:10px;"/>
-<img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/undefined/npm.png" style="padding-right:10px;"/>
-<img align="left" alt="React" width="26px" src="https://img.icons8.com/external-phatplus-lineal-color-phatplus/64/undefined/external-api-cloud-security-phatplus-lineal-color-phatplus.png"style="padding-right:10px;"/>
+<img align="left" alt="Npm" width="26px" src="https://img.icons8.com/color/48/undefined/npm.png" style="padding-right:10px;"/>
+<img align="left" alt="Api" width="26px" src="https://img.icons8.com/external-phatplus-lineal-color-phatplus/64/undefined/external-api-cloud-security-phatplus-lineal-color-phatplus.png"style="padding-right:10px;"/>
 
