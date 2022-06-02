@@ -6,9 +6,9 @@
 
 **I like challenges, and I am eager to learn. I believe that writing code and facing the problems in hands-on projects increased my ability to solve the problems.**
 
-**My passion is to solve the problem since I know myself on the earth. As I continue to solve them in different part of the world*.*
+**My passion is to solve the problem since I know myself on the earth. As I continue to solve them in different part of the world**
 
-**I am still writing poems and travelling all around the world**
+**I am still writing poems and travelling all around the world.**
 
 **I am currently looking for opportunities in Tech and like to connect with the other devs.** 
 
