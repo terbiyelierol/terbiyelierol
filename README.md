@@ -6,8 +6,6 @@
 
 <h4>I like challenges, and I am eager to learn. I believe that writing code and facing the problems in hands-on projects increased my ability to solve the problems.</h4>
 
-<h4>My passion is to solve the problem since I know myself on the earth. As I continue to solve them in different part of the world.</h4>
-
 <h4>I am still writing poems and travelling all around the world.</h4>
 
 <h4>I am currently looking for opportunities in Tech and like to connect with the other devs.</h4> 
