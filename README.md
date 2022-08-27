@@ -2,7 +2,7 @@
 
 <img src="images/js_engine.png">
 
-<h4>I am a Full-Stack Developer with an extensive background in accounting. I came to Canada 5 years ago in October and continued my accounting career. After four years of professional experience in Canada. I decided to start an entirely new career in Tech as I moved to a new Country. I decided to become a Software Developer. Nowadays, my title is the Student at GA. As a student, I created three different projects, and I will be creating one more projects; you can see my project in my repositories. I have developed a full-stack bookkeeping web application for self-employed, front-end browser base game and as a group project I and my team cloned kijiji.</h4>
+<h4>I am a Full-Stack Developer with an extensive background in accounting. I came to Canada 5 years ago in October and continued my accounting career. After four years of professional experience in Canada. I decided to start an entirely new career in Tech as I moved to a new Country. I decided to become a Software Developer. As a student, I created three different projects, and I will be creating one more projects; you can see my project in my repositories. I have developed a full-stack bookkeeping web application for self-employed, front-end browser base game. As a group project I and my team cloned kijiji. The latest project and this is the last project was MERN Full Stack Project. I called it DEVERD and I inspired dev.to the greatest community in Toronto and all around the world</h4>
 
 <h4>I like challenges, and I am eager to learn. I believe that writing code and facing the problems in hands-on projects increased my ability to solve the problems.</h4>
 
