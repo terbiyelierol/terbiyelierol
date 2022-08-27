@@ -33,7 +33,7 @@
 <img align="left" alt="PostgreSQL" width="26px"  src="https://img.icons8.com/color/48/undefined/postgreesql.png" style="padding-right:10px;"/>
 <img align="left" alt="Npm" width="26px" src="https://img.icons8.com/color/48/undefined/npm.png" style="padding-right:10px;"/>
 <img align="left" alt="Api" width="26px" src="https://img.icons8.com/external-phatplus-lineal-color-phatplus/64/undefined/external-api-cloud-security-phatplus-lineal-color-phatplus.png"style="padding-right:10px;"/>
-<img align="left" alt="Socket" width="26px" "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Socket" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" style="padding-right:10px;"/>
 
 [linkedin]: https://www.linkedin.com/in/erolterbiyeli/
 [twitter]: https://twitter.com/Terbiyelierol
